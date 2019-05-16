@@ -1,12 +1,13 @@
 {
-  "name": "gael/anonymisation",
-  "description": "Script d'anonymisation d'une base de donn\u0000es",
+  "name": "gael/anonymization",
+  "description": "Script d'anonymisation d'une base de données",
   "authors": [
     {
       "name": "Weiler Gaël",
       "email": "weiler.gael@gmail.com"
     }
   ],
+  "license": "MIT",
   "require": {
     "fzaninotto/faker": "^1.8",
     "ext-pdo": "*"
